@@ -37,6 +37,8 @@ python hexorcist.py
 ## Example:
 ![](images/example.png)
 
+## Flow Chart
+![](images/flowchart.jpg)
 
 ## Notes
 
